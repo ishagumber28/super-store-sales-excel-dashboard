@@ -27,4 +27,4 @@ Analyzed 9,994 retail sales records to evaluate revenue trends, regional perform
 9,994 records
 
 ## Dashboard Preview
-![Dashboard Screenshot](C:\Users\dell\OneDrive\Desktop\SQL_FILES\Excel Files\Dashboard_Preview.png)
+!(C:\Users\dell\OneDrive\Desktop\SQL_FILES\Excel Files\Dashboard_Preview.png)
