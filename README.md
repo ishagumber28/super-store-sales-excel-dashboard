@@ -27,4 +27,4 @@ Analyzed 9,994 retail sales records to evaluate revenue trends, regional perform
 9,994 records
 
 ## Dashboard Preview
-![Dashboard Preview](C:\Users\dell\OneDrive\Desktop\SQL_FILES\Excel Files\Dashboard_Preview.png)
+![Dashboard Preview](https://github.com/ishagumber28/super-store-sales-excel-dashboard/blob/21b5851b59977e28162f451aa3bf467faa171532/Dashboard_Preview.png))
